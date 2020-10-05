@@ -4,7 +4,7 @@ Learn the fundamentals of React hooks including components, state, props, and su
 
 ## Author
 
-- [Sergio Bruni](https://www.taniarascia.com)
+- [Sergio Bruni](https://www.linkedin.com/in/sergebruni/)
 
 ## License
 
